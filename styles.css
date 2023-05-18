@@ -17,9 +17,10 @@ body {
 #banner {
     /* transform: translateY(-30%); */
     width: 100%;
+    transform: translateY(-20%);
 }
 .content {
-    /*transform: translateY(-70%);*/
+    transform: translateY(-17.5%);
     margin: 5%;
     width: 90%;
 }
